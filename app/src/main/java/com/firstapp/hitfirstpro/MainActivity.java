@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private double number1;
     private double number2;
     private char ch;
-    private boolean isNewInput = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
